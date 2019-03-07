@@ -1,4 +1,4 @@
-# \<progress-stepper\>
+# \<review-rating\>
 
 A simple Rating Component to provide rating and review for service
 
